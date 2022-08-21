@@ -53,7 +53,7 @@ The following is the license used for this project <br> https://choosealicense.c
 
 ## Questions And Contributions
 
-If you have any questions about our project you can find us on github at [DWKanas](https://github.com/DWKanas), [james91055](https://github.com/james91055), [guitarkeegan](https://github.com/guitarkeegan), [aaloksikand] (https://github.com/aaloksikand) or you can email us at dkanas0122@gmail.com, james91055@gmail.com, keegananglim@gmail.com and aalok.sikand@gmail.com respectively.
+If you have any questions about our project you can find us on github at [DWKanas](https://github.com/DWKanas), [james91055](https://github.com/james91055), [guitarkeegan](https://github.com/guitarkeegan), [aaloksikand](https://github.com/aaloksikand) or you can email us at dkanas0122@gmail.com, james91055@gmail.com, keegananglim@gmail.com and aalok.sikand@gmail.com respectively.
 
 ## Links
 
@@ -61,7 +61,7 @@ Deployed Project:
 
 Heroku Link: 
 
-https://review-flix.herokuapp.com/
+[Site](https://review-flix.herokuapp.com/)
 
 ## GIF
 
